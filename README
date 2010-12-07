@@ -4,3 +4,9 @@ SETUP
 1 - Checkout the project in your system
 2 - Inside FDT just import the existing project
 3 - Have fun!
+
+HOW TO RUN
+1 - Open the TuioKinect.app inside the libs folder
+2 - run the socket inside the folder "libs/udp-flashlc-bridge"
+3 - Publish the SWF
+4 - Have more fun!
