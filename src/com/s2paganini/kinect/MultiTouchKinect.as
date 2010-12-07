@@ -12,6 +12,8 @@ package com.s2paganini.kinect
 
 	/**
 	 * @author silvio paganini | s2paganini.com
+	 * @version 0.1
+	 * @year 2010
 	 */
 	public class MultiTouchKinect extends Sprite implements ITuioListener
 	{
